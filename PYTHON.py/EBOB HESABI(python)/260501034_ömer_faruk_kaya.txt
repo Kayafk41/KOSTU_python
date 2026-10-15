@@ -1,0 +1,10 @@
+BASLA
+A ve B sayılarını iste
+DONGU (B sıfır olmadığında ):
+    kalan= A mod B
+    A=B
+    B=kalan
+DONGU BİTİR
+EBOB=A
+EBOBu yaz
+BİTİR
