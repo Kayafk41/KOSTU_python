@@ -1,0 +1,8 @@
+print(type(7), type(7.0), type("7"))
+print(int("42")+8)
+print("42" + "8")
+print(int(9.99))
+print(float(3))
+print(round(3.14159 , 2))
+print(round(2.5), round(3.5))
+print(10/4 , 10//4 , 10 %4 )
